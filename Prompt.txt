@@ -1,0 +1,26 @@
+Hola chat, podrías revisar el archivo README.md que te envié en donde cree una plantilla utilizando Markdown con elementos como titulo, subtitulo, listas, etc., dicho archivo lo iré modificando con la información que se ira subiendo al repositorio con los códigos hechos en clase. Podrías darme sugerencias de mejora en diseño o formato para que se vea lo mejor posible el apartado visual de este, asegurándote de conservar todos los elementos obligatorios que pide la maestra:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+# Programación web 2026 IDS TM 
+## Descripción del repositorio 
+Este repositorio fue creado para la materia de **programación web** para modificarlo y guardar los ejercicios hechos en clase. 
+### Datos generales 
+Alejandro Manuel Cota Ayala - Ingeniería en Desarrollo de Software - Quinto Semestre - Grupo A - Turno Matutino 
+## Herramientas que utilizaremos 
+1. HTML 
+2. CSS 
+3. XML 
+4. JavaScript 
+## Actividades 
+* Ejercicio 1 
+* Ejercicio 2 
+* Ejercicio 3 
+* Ejercicio 4 
+## Imagen 
+![Esta es una imagen de Programación web](https://blog.initiumsoft.com/wp-content/uploads/2024/06/programacion-web.webp)
+## Enlace
+[Enlace a mi repositorio](https://github.com/alejandromanuelcotaayala/programacion-web-2026/)
+## Tabla
+| Actividades   | Unidades      |
+| ------------- |:-------------:|
+| 5 Ejercicios  | Unidad 1      |
+| 7 Ejercicios  | Unidad 2      |
+| 8 Ejercicios  | Unidad 3      |
